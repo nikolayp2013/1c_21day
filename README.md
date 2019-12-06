@@ -1,7 +1,7 @@
 # 1c_21day
 Изучение платформы 1С за 21 день.  <br />
 
-Текущий изученный урок:0 <br />
+Текущий изученный урок:016 <br />
 
 Урок 001 - 1C-Programmer-21day-Day00-part01.avi <br />
 Урок 002 - 1C-Programmer-21day-Day01-part00.avi <br />
@@ -9,7 +9,7 @@
 Урок 004 - 1C-Programmer-21day-Day01-part02.avi <br />
 Урок 005 - 1C-Programmer-21day-Day01-part03.avi <br />
 Урок 006 - 1C-Programmer-21day-Day01-part04.avi <br />
-Урок 007 - 1C-Programmer-21day-Day01-part05.avi <br />
+Урок 007 - 1C-Programmer-21day-Day01-part05.avi <br /> создание новой информационной базы <br />
 Урок 008 - 1C-Programmer-21day-Day01-part06.avi <br />
 Урок 009 - 1C-Programmer-21day-Day01-part07.avi <br />
 Урок 010 - 1C-Programmer-21day-Day01-part08.avi <br />
@@ -197,7 +197,7 @@
 <b><ins>Конфигурация</ins></b> для учета в мебельной компании <br />
 <br />
 объекты платформы: <br />
-1. информационная база <br />
+1. <b><ins>информационная база</ins></b> <br />
 2. справочники <br />
 3. перечисления <br />
 4. константы <br />
