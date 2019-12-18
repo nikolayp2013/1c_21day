@@ -1,7 +1,9 @@
 # 1c_21day
 Изучение платформы 1С за 21 день.  <br />
 
-Текущий изученный урок:021 <br />
+Текущий изученный урок:112 с отработой материала на платформе <br />
+Текущий изученный урок:124 <br />
+Текущее сделанное домашнее задание:11 <br />
 
 Урок 001 - 1C-Programmer-21day-Day00-part01.avi <br />
 Урок 002 - 1C-Programmer-21day-Day01-part00.avi <br />
@@ -23,6 +25,11 @@
 Урок 017 - 1C-Programmer-21day-Day02-part07.avi <br />
 Урок 018 - 1C-Programmer-21day-Day02-part08.avi <br />
 Урок 019 - 1C-Programmer-21day-Day02-part09.avi <br />
+Документооборот, торговый учет
+себестоимость - 
+выручка -
+прибыль -
+рентабельность -
 
 Урок 020 - 1C-Programmer-21day-Day03-part01.avi <br />
 Урок 021 - 1C-Programmer-21day-Day03-part02.avi <br />
@@ -51,12 +58,13 @@
 Урок 042 - 1C-Programmer-21day-Day05-part07.avi <br />
 Урок 043 - 1C-Programmer-21day-Day05-part08.avi <br />
 Урок 044 - 1C-Programmer-21day-Day05-part09.avi <br />
+Конец 1 модуля
 
 Урок 045 - 1C-Programmer-21day-Day06-part00.avi <br />
 Урок 046 - 1C-Programmer-21day-Day06-part01.avi <br />
 Урок 047 - 1C-Programmer-21day-Day06-part02.avi <br />
 Урок 048 - 1C-Programmer-21day-Day06-part03.avi <br />
-Урок 059 - 1C-Programmer-21day-Day06-part04.avi <br />
+Урок 049 - 1C-Programmer-21day-Day06-part04.avi <br />
 Урок 050 - 1C-Programmer-21day-Day06-part05.avi <br />
 Урок 051 - 1C-Programmer-21day-Day06-part06.avi <br />
 Урок 052 - 1C-Programmer-21day-Day06-part07.avi <br />
@@ -80,12 +88,13 @@
 Урок 068 - 1C-Programmer-21day-Day08-part08.avi <br />
 
 Урок 069 - 1C-Programmer-21day-Day09-part01.avi <br />
-Урок 070 - 1C-Programmer-21day-Day09-part02.avi <br />
+Урок 070 - 1C-Programmer-21day-Day09-part02.avi <br /> Отладчик <br />
 Урок 071 - 1C-Programmer-21day-Day09-part03.avi <br />
 Урок 072 - 1C-Programmer-21day-Day09-part04.avi <br />
 Урок 073 - 1C-Programmer-21day-Day09-part05.avi <br />
 Урок 074 - 1C-Programmer-21day-Day09-part06.avi <br />
 Урок 075 - 1C-Programmer-21day-Day09-part07.avi <br />
+Конец второго модуля
 
 Урок 076 - 1C-Programmer-21day-Day10-part00.avi <br />
 Урок 077 - 1C-Programmer-21day-Day10-part01.avi <br />
@@ -96,6 +105,7 @@
 Урок 082 - 1C-Programmer-21day-Day10-part06.avi <br />
 Урок 083 - 1C-Programmer-21day-Day10-part07.avi <br />
 Урок 084 - 1C-Programmer-21day-Day10-part08.avi <br />
+Отчеты, Запросы
 
 Урок 085 - 1C-Programmer-21day-Day11-part01.avi <br />
 Урок 086 - 1C-Programmer-21day-Day11-part02.avi <br />
@@ -121,6 +131,7 @@
 Урок 104 - 1C-Programmer-21day-Day13-part05.avi <br />
 Урок 105 - 1C-Programmer-21day-Day13-part06.avi <br />
 Урок 106 - 1C-Programmer-21day-Day13-part07.avi <br />
+Конец 3 модуля <br />
 
 Урок 107 - 1C-Programmer-21day-Day14-part00.avi <br />
 Урок 108 - 1C-Programmer-21day-Day14-part01.avi <br />
@@ -211,3 +222,11 @@
 Проведенный докумен изменяет систему <br />
 Просто записанныз документ ничего не делает - это черновик. <br />
 
+	Себестоимость — денежная оценка используемых в производстве продукции (работ, услуг) природных ресурсов, сырья, материалов, топлива, энергии, 
+основных фондов, трудовых ресурсов и других затрат на её производство и сбыт.
+	Вы́ручка (также встречается как оборот и объём продаж) — полная сумма требований (в том числе неоплаченных), 
+предъявленных предприятием или предпринимателем покупателям в результате реализации произведённой...
+	При́быль — положительная разница между суммарными доходами (в которые входит выручка от реализации товаров и услуг, 
+полученные штрафы и компенсации, процентные доходы и т. п.) и затратами на производство или приобретение...
+	Рента́бельность (от нем. rentabel — доходный, полезный, прибыльный), относительный показатель экономической эффективности. 
+Рентабельность комплексно отражает степень эффективности использования материальных...
